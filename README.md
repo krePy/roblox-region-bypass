@@ -1,2 +1,3 @@
 # roblox-region-bypass
-Bypasses the region lock &amp; makes your cookies work on every region
+
+Not working anymore. If you know how to fix it dm me on discord (kre12 is my tag)
